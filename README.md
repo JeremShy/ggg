@@ -1,6 +1,6 @@
 # ggg
 
-This is a very useful function to simplify your git push operations.
+This is a very useful function to simplify simple git push operations.
 
 # Usage :
 ggg -> Add every files, commits with an automatic commit message and pushes.  
