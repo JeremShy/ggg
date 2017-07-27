@@ -37,7 +37,7 @@ function ggg() {
 			echo "Error while adding all files"
 			return
 		fi
-		git commit -m "Automatic commit !"
+		git commit -m "Automatic commit message"
 		if [ "$?" != "0" ]; then
 			echo "Error while committing with commit message \"Automatic Commit\""
 			return
